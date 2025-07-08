@@ -1,20 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=28&duration=5004&pause=1000&color=C68FE6&width=435&lines=Hi!+I'm+ChaeHyun+Ryu+%3AD)](https://git.io/typing-svg) 
+![header](https://github.com/user-attachments/assets/3f3a4a02-5dba-4ab4-bac9-52da580b6274)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ryuchaehyun)](https://www.linkedin.com/in/ryuchaehyun)
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@cielo_g)](https://velog.io/@cielo_g)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lch010201@gmail.com)](mailto:lch010201@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/chae_.vly)](https://instagram.com/chae_.vly)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/yourusername)](https://www.notion.so/yourusername)
-
-Hi there!🖐 I'm an aspiring **Cloud and DevOps Engineer** with a passion for development.💭  
-Also, I have a strong interest in **security** and try to keep security in mind while developing.🛡️💓
-
-I enjoy working out at the gym, doing Pilates, and drinking coffee.🏋️‍♀️🧘☕  
-I'm also passionate about traveling and have explored various countries around the world. 🌍✈️
-
-Always excited to **connect** with like-minded individuals and **collaborate** on innovative projects! ✨
+소개글
  
-<br>
+### ➰ **Tech Stack** 
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="200" height="100" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="200" height="100" />
+ <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="200" height="100" />
+ <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="200" height="100" /></div>
 
 ### ➰ **Tech Stack** 
 
@@ -59,3 +53,16 @@ Always excited to **connect** with like-minded individuals and **collaborate** o
  
 ### ➰ Algorithm Ranking  
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=lch010201)](https://solved.ac/profile/lch010201)
+
+
+<div align="right">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ryuchaehyun)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@cielo_g)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:lch010201@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chae_.vly)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)]([https://www.notion.so/yourusername](https://toothsome-band-d5d.notion.site/11f7a1eb10db8196bad3d8773bb7a45d?source=copy_link))
+
+</div>
+
+
