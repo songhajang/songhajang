@@ -36,29 +36,48 @@
 <br>
 <br>
 
-## 👨‍💻 안녕하세요!! 저는 **스스로 끊임없이 배우고 성장하는** 백엔드 개발자 장송하입니다 👨‍💻  
+## 👨‍💻 안녕하세요!! 저는 **스스로 끊임없이 배우고 성장하는** 백엔드 개발자 장송하입니다 👨‍💻 
+🌱 웹 개발의 전체 생태계를 이해하고자 프론트엔드부터 시작하여 백엔드, 클라우드 엔지니어링까지 폭넓게 학습하고 있는 개발자입니다. <br>
+사용자 경험부터 서버 인프라까지 전 영역을 아우르는 풀스택 역량을 갖추기 위해 노력하며, 최신 기술 트렌드를 적극적으로 학습하고 실무에 적용하려 합니다. <br>
+
+<br>
+
 💼 현재 학습 중인 기술: **Spring Boot**, **RESTful API**, **Database Optimization** 
-💡 **Spring Boot와 RESTful API**로 견고한 서버를 구축하는 것을 즐기며  
-🌱 **클라우드 컴퓨팅과 마이크로서비스**로 한 걸음 더 나아가고자 합니다  
-⚡ **코드 리팩토링**을 통해 더 나은 코드를 추구하고 트러블 슈팅을 좋아하는 개발자입니다   
-📫 angpan2004@gmail.com
 
 <br>
 <br>
 
 ## 📊 GitHub 통계
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gill010147&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill010147&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<div align='center'>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songhajang&layout=donut&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="38%" />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=songhajang&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="56%" />
+</a>
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gill010147&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 <br>
 <br>
+
+## 🏆 수상경력
+
+🏅 Do-ing 미래설계 - 은상 <br>
+🏅 지방기능경기대회 - 금상 <br>
+🏅 더 고 대 2021 SW 인재 창업캠프 - 은상 <br>
+🏅 SK스마틴앱 챌린지 - 장려상 <br>
+🏅 AI기반 프로젝트 경진대회 - 참가상 <br>
+🏅 전자상거래실무 - 동상 <br>
+
+
+<br>
+<br>
+
 
 ## 📫 연락처
 
